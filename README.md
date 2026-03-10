@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Coin prefab and pickup
 
 ## References
 
@@ -14,4 +15,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Jesus Regalado
