@@ -3,8 +3,6 @@ Project-04 2D Platformer
 03-14-2026
 
 ## Implementation
-<<<<<<< Updated upstream
-=======
 Display of coins collected
 New font imported
 Jump sound effect, coin pick up sound effect, both made by me
@@ -13,7 +11,7 @@ Enemies on all levels
 Sound track made by me
 Start and End screens
 Background for start and end screens
->>>>>>> Stashed changes
+
 
 ## References
 * Daydream by DoubleGum [https://www.dafont.com/bitmap.php]
@@ -24,4 +22,4 @@ Music and sounds made by me
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Jesus Regalado
