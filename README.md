@@ -16,7 +16,7 @@ Background for start and end screens
 ## References
 * Daydream by DoubleGum [https://www.dafont.com/bitmap.php]
 * [Game Icons](https://kenney.nl/assets/game-icons)
-Music and sounds made by me
+* Music and sounds made by me
 
 
 ## Future Development
