@@ -1,15 +1,25 @@
-# Exercise-04c-Enemies
+# Project-04
+Project-04 2D Platformer
+03-14-2026
 
 ## Implementation
+<<<<<<< Updated upstream
+=======
+Display of coins collected
+New font imported
+Jump sound effect, coin pick up sound effect, both made by me
+3 Levels of varying difficulties
+Enemies on all levels
+Sound track made by me
+Start and End screens
+Background for start and end screens
+>>>>>>> Stashed changes
 
 ## References
+* Daydream by DoubleGum [https://www.dafont.com/bitmap.php]
+* [Game Icons](https://kenney.nl/assets/game-icons)
+Music and sounds made by me
 
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
 
